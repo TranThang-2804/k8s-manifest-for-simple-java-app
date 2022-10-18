@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
+    chart: src/helm-demo
     repoURL: https://github.com/TranThang-2804/k8s-manifest-for-simple-java-app.git
-    targetRevision: HEAD
-    path: src
+    targetRevision: "1.0"
   destination:
     server: https://kubernetes.default.svc
     namespace: thangtd18-application
