@@ -11,7 +11,7 @@ spec:
     targetRevision: HEAD
     path: /src
   destination:
-    server: https://kubenetes.default.svc
+    server: https://kubernetes.default.svc
     namespace: thangtd18-application
   
   syncPolicy:
