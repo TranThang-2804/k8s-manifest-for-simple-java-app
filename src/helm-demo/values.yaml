@@ -1,0 +1,3 @@
+deployment:
+  image: u5ndp/demo
+  tag: v1.0
