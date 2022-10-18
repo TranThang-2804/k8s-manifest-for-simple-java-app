@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/TranThang-2804/k8s-manifest-for-simple-java-app.git
     targetRevision: HEAD
-    path: /src
+    path: src
   destination:
     server: https://kubernetes.default.svc
     namespace: thangtd18-application
