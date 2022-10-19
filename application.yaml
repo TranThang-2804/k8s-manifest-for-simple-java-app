@@ -8,8 +8,8 @@ spec:
 
   source:
     path: ''
-    repoURL: 'https://github.com/TranThang-2804/k8s-manifest-for-simple-java-app/helm-demo'
-    targetRevision: '1.0'
+    repoURL: 'https://tranthang-2804.github.io/k8s-manifest-for-simple-java-app/'
+    targetRevision: '1'
     chart: helm-demo
   destination:
     server: https://kubernetes.default.svc
