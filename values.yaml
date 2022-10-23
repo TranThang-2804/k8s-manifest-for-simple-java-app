@@ -1,0 +1,3 @@
+deployment:
+  image: tommytran2804/k8spipelineapp
+  tag: hi
