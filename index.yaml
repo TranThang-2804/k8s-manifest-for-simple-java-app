@@ -3,6 +3,16 @@ entries:
   helm-demo:
   - apiVersion: v2
     appVersion: "1.2"
+    created: "2022-11-04T08:55:32.930505593Z"
+    description: A Helm chart for fpt demo project
+    digest: 571f6beb619f1af10ad8bfab39d865cd272f8c32869340602c26542658c07760
+    name: helm-demo
+    type: application
+    urls:
+    - https://github.com/TranThang-2804/k8s-manifest-for-simple-java-app/releases/download/helm-demo-1.5.1666516100/helm-demo-1.5.1666516100.tgz
+    version: 1.5.1666516100
+  - apiVersion: v2
+    appVersion: "1.2"
     created: "2022-10-23T09:24:21.563859302Z"
     description: A Helm chart for fpt demo project
     digest: fb779b1576a5bc940d3d66281d1fca22a5085c9c56efe61f583845357813350d
